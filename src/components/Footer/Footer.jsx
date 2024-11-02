@@ -24,7 +24,7 @@ function Footer() {
               to=""
               target="_blank"
               onClick={(e) => {
-                window.location.href = "https://wa.me/541136388857?text=Hola";
+                window.location.href = "https://wa.me/541136388857";
                 e.preventDefault();
               }}
             >

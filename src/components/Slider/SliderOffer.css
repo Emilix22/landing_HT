@@ -15,7 +15,7 @@
 .offer-slide {
   display: inline-block;
   background-color: transparent;
-  animation: 30s slide infinite linear;
+  animation: 40s slide infinite linear;
 }
 .offer-slide span {
   font-size: 1.2rem;
@@ -52,5 +52,8 @@
 .offer-slide span {
   font-size: 1.3rem;
   overflow: hidden;
+}
+.offer-slide {
+  animation: 30s slide infinite linear;
 }
 }
