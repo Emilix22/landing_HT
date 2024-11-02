@@ -1,0 +1,102 @@
+.exercises_section {
+  position: relative;
+  background-color: var(--black);
+  line-height: 0;
+  height: 500px;
+}
+.video_exercises {
+  width: 100%;
+  filter: opacity(0.3);
+}
+.exercises_section h1 {
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  background-color: transparent;
+  z-index: 100;
+  font-synthesis: weight;
+  font-weight: bold;
+  color: var(--color1);
+}
+.exercises_section h3 {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  background-color: transparent;
+  z-index: 100;
+  color: var(--color1);
+  font-synthesis: weight;
+  font-weight: bold;
+}
+.exercises_section p {
+  position: absolute;
+  top: 150px;
+  text-align: center;
+  padding: 10px;
+  background-color: transparent;
+  z-index: 100;
+}
+.exercises_section p img {
+  width: 50px;
+  background-color: transparent;
+}
+.exercises_section a {
+  position: absolute;
+  bottom: 15px;
+  right: 10px;
+  padding: 5px;
+  border: solid 1px var(--color2);
+  border-radius: 4px;
+  background-color: var(--color1);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  text-decoration: none;
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+.exercises_section a i, .exercises_section a i svg {
+  background-color: transparent;
+  line-height: 0;
+}
+
+@media (min-width: 768px) {
+  .exercises_section a {
+    right: 46%;
+  }
+  
+}
+
+@media (min-width: 1024px) {
+  .exercises_section {
+    height: 700px;
+    /* margin-top: 110px; */
+  }
+  .exercises_section, .video_exercises {
+    height: 660px;
+  }
+  .exercises_section h1 {
+    font-size: 4rem;
+  }
+  .exercises_section h3 {
+    font-size: 2.5rem;
+    top: 100px;
+  }
+  .exercises_section p {
+    font-size: 2rem;
+    top: 40%;
+    padding: 0px 100px;
+  }
+  .exercises_section p img {
+    width: 60px;
+  }
+  .exercises_section a {
+    right: 40px;
+    bottom: 40px;
+    font-size: 2rem;
+    padding: 0px 10px;
+  }
+  .exercises_section a i svg {
+    font-size: 2rem;
+  }
+}

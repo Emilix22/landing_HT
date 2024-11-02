@@ -1,0 +1,26 @@
+:root {
+  --color1: #ff6700;
+  --color2: #ebebeb;
+  --color3: #c0c0c0;
+  --color4: #3a6ea5;
+  --color5: #004e98;
+  --black: #242424;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: 'Nunito Sans', sans-serif;
+  line-height: 1.5;
+
+  color: var(--color2);
+  background-color: var(--color5);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

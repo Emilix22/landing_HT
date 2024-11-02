@@ -1,0 +1,124 @@
+:root {
+  --color1: #ff6700;
+  --color2: #ebebeb;
+  --color3: #c0c0c0;
+  --color4: #3a6ea5;
+  --color5: #004e98;
+  --black: #242424;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding: 10px;
+  box-shadow: 2px 4px 10px 1px #ebebeb78;
+}
+.logo_header {
+  width: 60%;
+}
+.logo_header img {
+  width: 100%;
+  border-radius: 6px;
+}
+#hamburguer_menu {
+  display: none;
+}
+.menu {
+  width: 100%;
+}
+.options {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color2);
+  position: absolute;
+  top: 60px;
+  height: 0px;
+  left: 0px;
+  overflow: hidden;
+  z-index: 200;
+  gap: 2rem;
+  font-size: 1.5rem;
+  width: 100%;
+  transition: all 0.4s ease-in-out;
+}
+.options li {
+  list-style: none;
+  background-color: transparent;
+  transition: all 0.3s ease-in-out;
+  padding: 3px;
+  border-radius: 6px;
+}
+.options a {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: transparent;
+  color: var(--color5);
+}
+.options a i {
+  background-color: transparent;
+  line-height: 0;
+}
+.options a i svg {
+  background-color: transparent;
+}
+.options a i svg path {
+  color: var(--color1);
+}
+.hamburguer_menu:checked + .menu .options {
+  height: 70vh;
+}
+
+@media (min-width: 768px) {
+  .options {
+    top: 95px;
+  }
+  .logo_header {
+    width: 40%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header {
+    position: fixed;
+    z-index: 200;
+    top: 0px;
+  }
+  .scrollDown {
+    opacity: 0.8;
+  }
+  .icon_hamburguer {
+    display: none;
+  }
+  .logo_header {
+    width: 25%;
+  }
+  .menu {
+    width: 60%;
+  }
+  .options {
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: transparent;
+    position: relative;
+    width: 95%;
+    top: 0px;
+    overflow: visible;
+    gap: 0px;
+    font-size: 1rem;
+  }
+  .options a {
+    text-transform: capitalize;
+    font-weight: bold;
+    color: var(--color2);
+  }
+  .options li:hover {
+    transform: scale(1.3);
+    box-shadow: 2px 4px 10px 1px #ebebeb78;
+  }
+}

@@ -1,0 +1,76 @@
+:root {
+  --color1: #ff6700;
+  --color2: #ebebeb;
+  --color3: #c0c0c0;
+  --color4: #3a6ea5;
+  --color5: #004e98;
+  --black: #242424;
+}
+
+footer {
+  background-color: var(--color2);
+  color: var(--color5);
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.up_footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: transparent;
+  color: var(--color5);
+}
+
+.articles_footer {
+  width: 100%;
+  text-align: center;
+  color: var(--color5);
+  background-color: transparent;
+}
+.articles_footer img {
+  width: 20%;
+  background-color: transparent;
+}
+.articles_footer h3 {
+  color: var(--color5);
+  background-color: transparent;
+}
+.contacts_footer {
+  display: flex;
+  justify-content: space-around;
+  color: var(--color5);
+  background-color: transparent;
+}
+.contacts_footer a, .contacts_footer i {
+  background-color: transparent;
+}
+.contacts_footer svg {
+  background-color: transparent;
+  font-size: 3rem;
+}
+.contacts_footer svg path {
+  color: var(--color5);
+}
+.down_footer {
+  background-color: transparent;
+}
+.emilixWeb {
+  color: var(--color5);
+  font-size: 11px;
+  text-align: center;
+  background-color: transparent;
+}
+.emilixWeb a {
+  text-decoration: none;
+  background-color: transparent;
+  color: var(--color5);
+}
+
+@media (min-width: 769px) {
+  .articles_footer {
+      width: 30%;
+  }
+}

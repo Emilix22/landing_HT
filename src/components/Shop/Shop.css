@@ -1,0 +1,113 @@
+@keyframes show {
+  from {
+    opacity: 0;
+    scale: 25%;
+  }
+
+  to {
+    opacity: 1;
+    scale: 100%;
+  }
+}
+.shop_section {
+  position: relative;
+  background-image: url("/back_tienda.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+  background-attachment: fixed;
+  height: 500px;
+}
+.shop_section h1 {
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  background-color: transparent;
+  z-index: 100;
+  color: var(--color1);
+  font-synthesis: weight;
+  font-weight: bold;
+}
+.shop_section h3 {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  background-color: transparent;
+  z-index: 100;
+  color: var(--color1);
+  font-synthesis: weight;
+  font-weight: bold;
+}
+.shop_section p {
+  position: absolute;
+  top: 40%;
+  text-align: center;
+  padding: 10px;
+  background-color: transparent;
+  z-index: 100;
+}
+.shop_section p img {
+  width: 40px;
+  background-color: transparent;
+}
+.shop_section a {
+  position: absolute;
+  bottom: 15px;
+  right: 10px;
+  padding: 5px;
+  border: solid 1px var(--color2);
+  border-radius: 4px;
+  background-color: var(--color1);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  text-decoration: none;
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+.shop_section :where(p) {
+  view-timeline-name: --phone;
+  view-timeline-axis: block;
+  animation-timeline: --phone;
+  animation-name: show;
+  animation-range: entry 25% cover 50%;
+  animation-fill-mode: both;
+}
+.shop_section a i, .shop_section a i svg {
+  background-color: transparent;
+  line-height: 0;
+}
+
+@media (min-width: 768px) {
+  .shop_section a {
+    right: 46%;
+  }
+  
+}
+
+@media (min-width: 1024px) {
+  .shop_section {
+    height: 700px;
+  }
+  .shop_section h1 {
+    font-size: 4rem;
+  }
+  .shop_section h3 {
+    font-size: 2.5rem;
+    top: 100px;
+  }
+  .shop_section p {
+    font-size: 2rem;
+    padding: 100px;
+  }
+  .shop_section a {
+    right: 40px;
+    bottom: 40px;
+    font-size: 2rem;
+    padding: 0px 10px;
+  }
+  .shop_section a i svg {
+    font-size: 2rem;
+  }
+}
