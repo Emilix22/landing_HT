@@ -1,11 +1,13 @@
 .exercises_section {
   position: relative;
   background-color: var(--black);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 5%, rgba(9,9,121,1) 90%);
   line-height: 0;
   height: 500px;
 }
 .video_exercises {
   width: 100%;
+  height: 500px;
   filter: opacity(0.3);
 }
 .exercises_section h1 {

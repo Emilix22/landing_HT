@@ -86,7 +86,7 @@ function Header() {
           </li>
         </ul>
       </nav>
-      <label className="icon_hamburguer" htmlFor="hamburguer_menu">
+      <label className="icon_hamburguer" id="icon_hamburguer" htmlFor="hamburguer_menu">
         <MenuIcon />
       </label>
     </header>

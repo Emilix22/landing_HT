@@ -7,7 +7,7 @@
   }
 }
 .offer {
-  background-color: yellow;
+  background-color: whitesmoke;
   overflow: hidden;
   white-space: nowrap;
   position: relative;
@@ -34,11 +34,11 @@
 }
 .offer::before {
   left: 0;
-  background: linear-gradient(to left, rgba(255, 2552, 255, 0), var(--color1));
+  background: linear-gradient(to left, rgba(255, 2552, 255, 0), var(--color2));
 }
 .offer::after {
   right: 0;
-  background: linear-gradient(to right, rgba(255, 2552, 255, 0), var(--color1));
+  background: linear-gradient(to right, rgba(255, 2552, 255, 0), var(--color2));
 }
 /* .offer:hover .offer-slide {
   animation-play-state: paused;
