@@ -17,13 +17,13 @@
   background-position: center;
   background-blend-mode: multiply;
   background-attachment: fixed;
+  background-color: var(--color5);
   height: 500px;
 }
 .shop_section h1 {
   position: absolute;
   top: 15px;
   left: 10px;
-  background-color: transparent;
   z-index: 100;
   color: var(--color1);
   font-synthesis: weight;
@@ -33,7 +33,6 @@
   position: absolute;
   top: 50px;
   left: 10px;
-  background-color: transparent;
   z-index: 100;
   color: var(--color1);
   font-synthesis: weight;
@@ -44,12 +43,10 @@
   top: 40%;
   text-align: center;
   padding: 10px;
-  background-color: transparent;
   z-index: 100;
 }
 .shop_section p img {
   width: 40px;
-  background-color: transparent;
 }
 .shop_section a {
   position: absolute;
@@ -75,7 +72,6 @@
   animation-fill-mode: both;
 }
 .shop_section a i, .shop_section a i svg {
-  background-color: transparent;
   line-height: 0;
 }
 

@@ -16,14 +16,13 @@
   background-size: cover;
   background-position: center;
   background-blend-mode: difference;
-  /* background-attachment: fixed; */
+  background-color: var(--color5);
   height: 500px;
 }
 .enterprises_section h1 {
   position: absolute;
   top: 15px;
   left: 10px;
-  background-color: transparent;
   z-index: 100;
   color: var(--color1);
   font-synthesis: weight;
@@ -33,7 +32,6 @@
   position: absolute;
   top: 50px;
   left: 10px;
-  background-color: transparent;
   z-index: 100;
   color: var(--color1);
   font-synthesis: weight;
@@ -44,7 +42,6 @@
   top: 40%;
   text-align: center;
   padding: 10px;
-  background-color: transparent;
   z-index: 100;
 }
 .enterprises_section a {
@@ -71,7 +68,6 @@
   animation-fill-mode: both;
 }
 .enterprises_section a i, .enterprises_section a i svg {
-  background-color: transparent;
   line-height: 0;
 }
 
