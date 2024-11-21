@@ -88,6 +88,7 @@
     position: fixed;
     z-index: 200;
     top: 0px;
+    background-color: var(--color5);
   }
   .scrollDown {
     opacity: 0.8;
