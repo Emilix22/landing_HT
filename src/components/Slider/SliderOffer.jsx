@@ -7,54 +7,54 @@ function SliderOffer() {
 
       <div className='offer-slide'>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
       </div>
       <div className='offer-slide'>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          Noviembre 20% OFF + Cuotas Sin Intereses + Envío Gratis
+          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
         </span>
       </div>
       
