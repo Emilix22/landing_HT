@@ -7,54 +7,54 @@ function SliderOffer() {
 
       <div className='offer-slide'>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
       </div>
       <div className='offer-slide'>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🎅¡Diciembre Ofertas de Navidad!🎄 + Cuotas Sin Intereses + Envío Gratis
+          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
       </div>
       
