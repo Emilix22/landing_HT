@@ -7,54 +7,54 @@ function SliderOffer() {
 
       <div className='offer-slide'>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
       </div>
       <div className='offer-slide'>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
         <span>
-          🏖️Verano de Descuentos + Cuotas Sin Intereses + Envío Gratis
+          🛒 Descuentos + Cuotas Sin Intereses + Envío Gratis
         </span>
       </div>
       
