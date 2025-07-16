@@ -62,7 +62,14 @@
   gap: 3px;
   text-decoration: none;
   box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+  transition: all 0.3s ease;
 }
+.shop_section a:hover {
+  background-color: var(--color2);
+  color: white;
+  transform: scale(1.05);
+}
+
 .shop_section :where(p) {
   view-timeline-name: --phone;
   view-timeline-axis: block;

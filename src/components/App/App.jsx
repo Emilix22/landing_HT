@@ -1,4 +1,3 @@
-import "./App.css";
 import Header from "../Header/Header";
 import Exercises from "../Exercises/Exercises";
 import Shop from "../Shop/Shop";
